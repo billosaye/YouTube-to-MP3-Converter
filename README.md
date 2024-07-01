@@ -1,4 +1,4 @@
-# YouTube to MP3 Converter
+# YouTube to MP3 Converter - Build using CHATGPT
 
 ## Introduction
 
@@ -29,6 +29,4 @@ Build entirely using CHATGPT
 - Make sure the YouTube URL is valid.
 - Check the terminal for any error messages during the conversion process.
 
-## License
 
-This project is licensed under the MIT License.
